@@ -1,1 +1,1 @@
-# Learning how to use matplotlib and plotly to visualize data 
+# Learning how to use matplotlib, plotly, and pandas
